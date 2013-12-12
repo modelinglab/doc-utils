@@ -10,7 +10,7 @@
     
     <groupId>org.modelinglab.utils</groupId>
     <artifactId>doc</artifactId>
-    <version>1.0.4</version>
+    <version>1.0.5-SNAPSHOT</version>
     <name>ML Doc Utils</name>
     <packaging>jar</packaging>
     
